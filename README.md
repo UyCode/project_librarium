@@ -1,4 +1,5 @@
-![](https://gitee.com/UyCode/images-for-page/raw/master/page/Screenshot (37).png)
+![](https://gitee.com/UyCode/images-for-page/raw/master/page/librarium1.png)
+
 ---
 
 
@@ -7,7 +8,7 @@
 除了用作入门练习，我还希望该项目可以作为一些常见 Web 项目的脚手架，帮助大家简化搭建网站的流程。
 
 后台效果：
-![](https://gitee.com/UyCode/images-for-page/raw/master/page/Screenshot (36).png)
+![](https://gitee.com/UyCode/images-for-page/raw/master/page/librarium2.png)
 
 # 技术栈
 
