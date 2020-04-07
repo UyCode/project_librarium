@@ -24,9 +24,9 @@
 
 ## 2.后端技术栈
 
-1.Spring Boot  
-2.Spring Data + JPA 
-3.MySQL  
+1.Spring Boot
+2.Spring Data + JPA
+3.MySQL
 4.Shiro
 
 # 部署方法
@@ -41,7 +41,7 @@
 
 4.在IntelliJ IDEA中运行 `librarium` 项目，为了保证项目成功运行，可以右键点击 `pom.xml` 选择 maven -> reimport ，并重启项目
 
-至此，服务端就启动成功了，同时，运行 `librarium-vue` 项目，访问 `http://localhost:8080` ，即可进入登录页面，默认账号是 `admin`，密码是 `123`
+至此，服务端就启动成功了，同时，运行 `librarium-vue` 项目，访问 `http://localhost:8181` ，即可进入登录页面，默认账号是 `admin`，密码是 `123`
 
 如果要做二次开发，请继续看第五、六步。
 
@@ -64,6 +64,6 @@ npm run dev
 npm run build
 ```  
 
-该命令执行成功之后， `librarium-vue` 目录下生成一个 `dist` 文件夹，可以将该文件夹中的两个文件 `static` 和 `index.html` 拷贝到 `librarium` 项目中 `webapp/` 目录下，然后直接运行 `librarium` 项目，访问 `http://localhost:8080` ，实际上是把前端打包后作为静态文件，但不推荐使用这种方式。
+该命令执行成功之后， `librarium-vue` 目录下生成一个 `dist` 文件夹，可以将该文件夹中的两个文件 `static` 和 `index.html` 拷贝到 `librarium` 项目中 `public/` 目录下，然后直接运行 `librarium` 项目，访问 `http://localhost:8088` ，实际上是把前端打包后作为静态文件，但不推荐使用这种方式。
 
 (持续更新中)
