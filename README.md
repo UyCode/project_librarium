@@ -1,8 +1,5 @@
-![Screenshot 37.png](3)
+![](https://gitee.com/UyCode/images-for-page/raw/master/page/Screenshot (37).png)
 ---
-
-![lisense](https://img.shields.io/github/license/Antabot/White-Jotter)
-![release](https://img.shields.io/github/v/release/Antabot/White-Jotter)
 
 
 这是一个简单的前后端分离项目，主要采用 Vue.js + SpringBoot 技术栈开发。
@@ -10,7 +7,7 @@
 除了用作入门练习，我还希望该项目可以作为一些常见 Web 项目的脚手架，帮助大家简化搭建网站的流程。
 
 后台效果：
-![Screenshot 36.png](2)
+![](https://gitee.com/UyCode/images-for-page/raw/master/page/Screenshot (36).png)
 
 # 技术栈
 
