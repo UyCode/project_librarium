@@ -18,18 +18,23 @@
 
 ## 1.前端技术栈
 
-1.Vue  
-2.ElementUI  
+1.Vue
+
+2.Element-UI
+
 3.axios   
 
 ## 2.后端技术栈
 
 1.Spring Boot
+
 2.Spring Data + JPA
+
 3.MySQL
+
 4.Shiro
 
-# 部署方法
+## 3.部署方法
 
 1.clone 项目到本地
 
@@ -54,7 +59,7 @@ npm install
 # 在 localhost:8181 启动项目
 npm run dev
 
-```  
+```
 
 由于在 `librarium-vue` 项目中已经配置了端口转发，将数据转发到SpringBoot上，因此项目启动之后，在浏览器中输入 `http://localhost:8181` 就可以访问我们的前端项目了，所有的请求通过端口转发将数据传到 SpringBoot 中（注意此时不要关闭 SpringBoot 项目）。
 
@@ -62,7 +67,7 @@ npm run dev
 
 ```
 npm run build
-```  
+```
 
 该命令执行成功之后， `librarium-vue` 目录下生成一个 `dist` 文件夹，可以将该文件夹中的两个文件 `static` 和 `index.html` 拷贝到 `librarium` 项目中 `public/` 目录下，然后直接运行 `librarium` 项目，访问 `http://localhost:8088` ，实际上是把前端打包后作为静态文件，但不推荐使用这种方式。
 
