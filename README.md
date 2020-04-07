@@ -1,3 +1,7 @@
+[![GitHub license](https://img.shields.io/github/license/UyCode/project_librarium?color=blue&label=licence)](https://github.com/UyCode/project_librarium/blob/master/LICENSE)
+
+---
+
 ![](https://gitee.com/UyCode/images-for-page/raw/master/page/librarium1.png)
 
 ---
